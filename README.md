@@ -1,3 +1,3 @@
 # finalpro
 this is my final frt project.
-#azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
+#azure link https://calm-coast-0ce5d2610.3.azurestaticapps.net
